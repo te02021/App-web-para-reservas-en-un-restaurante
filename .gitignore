@@ -1,1 +1,3 @@
 /myapp/migrations/
+/myapp/__pycache__/
+/restaurante/__pycache__/
