@@ -13,7 +13,7 @@ Características Principales:
 Instalación y Uso:
 
 - Clona este repositorio en tu máquina local:
--     git clone https://github.com/MatiAstore/Restaurante.git
+-     git clone https://github.com/te02021/App-web-para-reservas-en-un-restaurante.git
 - Ejecuta el siguiente comando para crear las migraciones:
 -     python manage.py makemigrations
 - Aplica las migraciones a la base de datos.
